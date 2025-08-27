@@ -125,3 +125,11 @@ The CSV file (`Viral_Social_Media_Trends.csv`) should contain the following colu
   Update the CSV file with additional categories.
 - **Modify visualizations:**  
   Edit `app.py` to add or change charts and metrics.
+## Screenshots
+
+<img width="1449" height="753" alt="Screenshot 2025-08-27 at 7 04 56 PM" src="https://github.com/user-attachments/assets/a8d3ca5b-af84-48b6-9bc2-74fba9f25ba7" />
+<img width="1340" height="672" alt="Screenshot 2025-08-27 at 7 05 38 PM" src="https://github.com/user-attachments/assets/e2defcf1-31f8-4e43-9964-549c30b93f81" />
+<img width="1379" height="819" alt="Screenshot 2025-08-27 at 7 05 50 PM" src="https://github.com/user-attachments/assets/171cee58-d551-44b0-a90e-6a7512d3dd59" />
+<img width="1356" height="610" alt="Screenshot 2025-08-27 at 7 05 57 PM" src="https://github.com/user-attachments/assets/f6379867-447a-43f8-b685-85abf541ecb7" />
+<img width="1349" height="301" alt="Screenshot 2025-08-27 at 7 06 16 PM" src="https://github.com/user-attachments/assets/bada8251-8006-41ab-b830-e5b1bed0342e" />
+
