@@ -19,7 +19,7 @@ This dashboard provides comprehensive analysis of social media data with interac
 """)
 
 # Define the path to your CSV file
-csv_file_path = '/Users/tanishqsohal/streamlitproject/Viral_Social_Media_Trends.csv'
+csv_file_path = '/Users/tanishqsohal/Desktop/streamlitproject/Social_Media_Analytics_Dashboard/Viral_Social_Media_Trends.csv'
 
 # --- Load Data and Preprocessing ---
 try:
